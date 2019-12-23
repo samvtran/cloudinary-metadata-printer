@@ -1,0 +1,14 @@
+{
+  "name": "cloudinary-min-repo",
+  "version": "1.0.0",
+  "description": "A WebAssembly package to print all available metadata available to [custom functions](https://cloudinary.com/documentation/custom_functions).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sam Tran <sam.tran@nbcuni.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cloudinary": "^1.18.1"
+  }
+}
